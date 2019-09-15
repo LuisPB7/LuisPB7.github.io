@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-06-15
+venue: 'ACM Journal of Data and Information Quality'
+paperurl: 'http://delivery.acm.org/10.1145/3290000/3287763/a14-borges.pdf?ip=193.136.132.10&id=3287763&acc=ACTIVE%20SERVICE&key=2E5699D25B4FE09E%2E454625C777251F56%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568576141_e994797557195efa684f82ed28a6e791'
+citation: 'Luís Borges, Bruno Martins, and Pavel Calado, Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News, ACM Journal of Data and Information Quality, vol. 11, no.3, 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://delivery.acm.org/10.1145/3290000/3287763/a14-borges.pdf?ip=193.136.132.10&id=3287763&acc=ACTIVE%20SERVICE&key=2E5699D25B4FE09E%2E454625C777251F56%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568576141_e994797557195efa684f82ed28a6e791)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Luís Borges, Bruno Martins, and Pavel Calado, Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News, ACM Journal of Data and Information Quality, vol. 11, no.3, 2019.
