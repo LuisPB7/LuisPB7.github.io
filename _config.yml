@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. student from Instituto Superior Técnico and Carnegie Mellon University, working on Neural Information Retrieval"
   location         : "Lisbon & Pittsburgh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           : "https://www.flickr.com/photos/182139230@N04/albums"
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "LuisPB7"
   google_plus      :
   keybase          :
   instagram        :
