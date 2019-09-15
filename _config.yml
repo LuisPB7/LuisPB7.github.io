@@ -15,7 +15,7 @@ url                      : https://LuisPB7.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LuisPB7/LuisPB7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -83,7 +83,7 @@ author:
   name             : "Luís Pedro Borges"
   avatar           : "profile.png"
   bio              : "Ph.D. student from Instituto Superior Técnico and Carnegie Mellon University, working on Neural Information Retrieval"
-  location         : "Lisbon & Pittsburgh"
+  location         : "Lisbon & Pittsburgh,PA"
   employer         :
   pubmed           : 
   googlescholar    : 
