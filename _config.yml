@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-PT"
-title                    : "Luís Pedro Borges' Professional Website"
+title                    : "Luís Pedro Borges' Website"
 title_separator          : "-"
 name                     : &name "Luís Pedro Pires Borges"
 description              : &description "This is my professional website"
