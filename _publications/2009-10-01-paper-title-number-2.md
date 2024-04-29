@@ -3,5 +3,4 @@ title: "[Assessing the Benefits of Model Ensembles in Neural Re-ranking for Pass
 collection: publications
 date: 2021-03-28
 venue: 'European Conference on Information Retrieval (ECIR)'
-citation: 'Luís Borges, Bruno Martins, and Jamie Callan. "Assessing the Benefits of Model Ensembles in Neural Re-ranking for Passage Retrieval." European Conference on Information Retrieval. 2021'
 ---
