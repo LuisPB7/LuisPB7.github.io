@@ -3,5 +3,6 @@ title: "[Combining Similarity Features and Deep Representation Learning for Stan
 collection: publications
 date: 2019-06-15
 venue: 'ACM Journal of Data and Information Quality', volume 11, no. 3
+citation: 'Luís Borges, Bruno Martins, and Pavel Calado. "Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News". ACM Journal of Data and Information Quality, vol. 11, no.3. 2019.'
 ---
 
