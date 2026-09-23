@@ -25,7 +25,7 @@ The local preview is available at `http://localhost:4000`. Generated output is w
 - `files/cv.pdf`: original downloadable CV, November 2025.
 - `images/profile.png`: profile photograph.
 
-Keep the Ph.D. status explicitly **in progress** until graduation is confirmed. Check publication status and biographical details against the existing research records before changing them. The primary contact address is `lpborges.careers@gmail.com`.
+The primary contact address is `lpborges.careers@gmail.com`.
 
 The validation workflow builds with the locked GitHub Pages dependencies and checks internal links, assets and HTML fragments on pull requests. External publisher and profile links require a separate network check.
 
