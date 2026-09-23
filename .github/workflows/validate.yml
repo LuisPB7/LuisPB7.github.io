@@ -1,0 +1,32 @@
+name: Validate portfolio
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Build with GitHub Pages dependencies
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --safe --strict_front_matter
+      - name: Check internal links and fragments
+        run: >-
+          python3 scripts/check_site.py
+          --forbid-path /markdown/
+          --forbid-path /portfolio/portfolio-1/
+          --forbid-path /portfolio/portfolio-2/
+          --forbid-path /talkmap.html
+          --forbid-path /collection-archive/
+          --forbid-path /page-archive/

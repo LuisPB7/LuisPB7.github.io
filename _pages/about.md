@@ -1,17 +1,60 @@
 ---
 permalink: /
-title: "Greetings!"
-excerpt: "About me"
+title: "Information Retrieval & Machine Learning"
+description: "Luís Pedro Borges researches Information Retrieval, Machine Learning, NLP and neural search. Ph.D. in progress; open to jobs and internships in Canada."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Information Retrieval and Machine Learning researcher working at the intersection of search, Natural Language Processing, and Deep Learning. My work focuses on building neural retrieval systems that are not only effective, but also efficient and practical at scale.
+<p class="research-lead">Building effective, efficient neural search systems through NLP and deep learning.</p>
 
-My doctoral research, conducted across Instituto Superior Técnico / INESC-ID and Carnegie Mellon University, focuses on Neural Information Retrieval, particularly learned sparse retrieval. In my dissertation, Latent Vocabularies for Learned Sparse Retrieval, I explore how neural retrievers can learn their own sparse vocabularies while retaining the efficiency and scalability of inverted-index search. This work includes research on latent sparse representations, scalable knowledge distillation, and controlling retrieval cost and latency.
+I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superior Técnico / INESC-ID and Carnegie Mellon University. My research connects machine learning models with practical search systems, with a focus on learned sparse retrieval.
 
-More broadly, I have worked on learned sparse and dense retrieval, passage re-ranking, knowledge distillation, model ensembles, and LLM-based re-ranking. My research has been presented at ECIR, ICTIR, SIGIR, and TREC.
+<div class="opportunity-note" markdown="1">
+**Open to jobs and internships in Canada** in Information Retrieval, Search, NLP and applied Machine Learning, across research and engineering.
 
-I enjoy problems at the intersection of machine learning and real-world search systems, from model architecture and training to large-scale evaluation, efficiency, and retrieval infrastructure. I am currently interested in research and engineering opportunities in Information Retrieval, Search, NLP, and applied Machine Learning.
+<div class="portfolio-actions">
+  <a class="btn btn--primary" href="mailto:{{ site.author.email }}">Get in touch</a>
+  <a class="btn btn--outline" href="{{ '/cv/' | relative_url }}">View CV</a>
+  <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+</div>
+</div>
+
+## Selected Work
+
+<div class="selected-work">
+  <article class="work-item">
+    <p class="work-meta">Learned sparse retrieval · ICTIR 2023</p>
+    <h3><a href="{{ '/publications/kale/' | relative_url }}">KALE: sparse lexical expansion</a></h3>
+    <p>Uses a K-sparse projector to control the number of active terms in learned sparse representations, connecting neural retrieval with efficient inverted-index search.</p>
+    <a class="work-link" href="{{ '/publications/kale/' | relative_url }}">Read about KALE <span aria-hidden="true">→</span></a>
+  </article>
+  <article class="work-item">
+    <p class="work-meta">LLM re-ranking · SIGIR 2024</p>
+    <h3><a href="{{ '/publications/tip-of-the-tongue-llm-reranking/' | relative_url }}">Finding what users can’t quite name</a></h3>
+    <p>Combines retrieval and LLM re-ranking for Tip-of-the-Tongue search: finding a known item from an incomplete or imperfect description.</p>
+    <a class="work-link" href="{{ '/publications/tip-of-the-tongue-llm-reranking/' | relative_url }}">Explore the paper and code <span aria-hidden="true">→</span></a>
+  </article>
+  <article class="work-item">
+    <p class="work-meta">Passage retrieval · ECIR 2021</p>
+    <h3><a href="{{ '/publications/neural-reranking-ensembles/' | relative_url }}">Model ensembles for neural re-ranking</a></h3>
+    <p>Studies how model ensembling, rank fusion and learning-to-rank improve neural passage re-ranking on MS MARCO.</p>
+    <a class="work-link" href="{{ '/publications/neural-reranking-ensembles/' | relative_url }}">Read about the study <span aria-hidden="true">→</span></a>
+  </article>
+</div>
+
+[View all publications]({{ '/publications/' | relative_url }})
+
+## Current Research
+
+My doctoral research, **in progress**, explores *Latent Vocabularies for Learned Sparse Retrieval*: neural retrievers that learn their own sparse vocabularies while retaining the efficiency of inverted-index search. It brings together sparse representations, scalable knowledge distillation, and control of retrieval cost and latency.
+
+My broader work spans sparse and dense retrieval, passage re-ranking, model ensembles and LLM-based re-ranking, with research presented at ECIR, ICTIR, SIGIR and TREC.
+
+## Contact
+
+For job and internship opportunities in Canada, contact me at **[{{ site.author.email }}](mailto:{{ site.author.email }})**. I’m based in Lisbon, Portugal.
+
+[Google Scholar]({{ site.author.googlescholar }}) · [GitHub](https://github.com/{{ site.author.github }}) · [LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})
