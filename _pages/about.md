@@ -10,7 +10,7 @@ redirect_from:
 
 <p class="research-lead">Building effective, efficient neural search systems through NLP and deep learning.</p>
 
-I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superior Técnico / INESC-ID and Carnegie Mellon University. My research connects machine learning models with practical search systems, with a focus on learned sparse retrieval.
+I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superior Técnico / INESC-ID and Carnegie Mellon University. My research connects machine learning models with search systems, with a focus on learned sparse retrieval.
 
 <div class="opportunity-note" markdown="1">
 **Open to jobs and internships in Canada:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
