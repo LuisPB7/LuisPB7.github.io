@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Information Retrieval & Machine Learning"
-description: "Luís Pedro Borges researches Information Retrieval, Machine Learning, NLP and neural search. Ph.D. in progress; open to jobs and internships in Canada."
+description: "Luís Pedro Borges: Information Retrieval and Machine Learning researcher, Ph.D. in progress. Open to research, ML and data roles in Canada; IEC Working Holiday approved, with permit activation on arrival."
 author_profile: true
 redirect_from:
   - /about/
@@ -13,7 +13,9 @@ redirect_from:
 I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superior Técnico / INESC-ID and Carnegie Mellon University. My research connects machine learning models with practical search systems, with a focus on learned sparse retrieval.
 
 <div class="opportunity-note" markdown="1">
-**Open to jobs and internships in Canada** in Information Retrieval, Search, NLP and applied Machine Learning, across research and engineering.
+**Open to jobs and internships in Canada:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
+
+**Canadian work authorization:** IEC Working Holiday approved for up to 2 years; work permit activation on arrival. **No employer sponsorship required during the permit period.**
 
 <div class="portfolio-actions">
   <a class="btn btn--primary" href="mailto:{{ site.author.email }}">Get in touch</a>
