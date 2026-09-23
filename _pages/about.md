@@ -30,7 +30,7 @@ I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superio
   <article class="work-item">
     <p class="work-meta">Learned sparse retrieval · ICTIR 2023</p>
     <h3><a href="{{ '/publications/kale/' | relative_url }}">KALE: sparse lexical expansion</a></h3>
-    <p>Uses a K-sparse projector to control the number of active terms in learned sparse representations, connecting neural retrieval with efficient inverted-index search.</p>
+    <p>Uses a K-sparse projector to control the number of active terms in learned sparse representations, connecting neural retrieval with efficient inverted index search.</p>
     <a class="work-link" href="{{ '/publications/kale/' | relative_url }}">Read about KALE <span aria-hidden="true">→</span></a>
   </article>
   <article class="work-item">
@@ -51,7 +51,7 @@ I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superio
 
 ## Current Research
 
-My doctoral research, **in progress**, explores *Latent Vocabularies for Learned Sparse Retrieval*: neural retrievers that learn their own sparse vocabularies while retaining the efficiency of inverted-index search. It brings together sparse representations, scalable knowledge distillation, and control of retrieval cost and latency.
+My doctoral research, **in progress**, explores *Latent Vocabularies for Learned Sparse Retrieval*: neural retrievers that learn their own sparse vocabularies while retaining the efficiency of inverted index search. It brings together sparse representations, scalable knowledge distillation, and control of retrieval cost and latency.
 
 My broader work spans sparse and dense retrieval, passage re-ranking, model ensembles and LLM-based re-ranking, with research presented at ECIR, ICTIR, SIGIR and TREC.
 
