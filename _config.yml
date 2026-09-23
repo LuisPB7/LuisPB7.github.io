@@ -3,7 +3,7 @@ locale: "en-CA"
 title: "Luís Pedro Borges"
 title_separator: "|"
 name: "Luís Pedro Pires Borges"
-description: "Information Retrieval, Machine Learning, NLP and neural search researcher. Ph.D. in progress at Instituto Superior Técnico and Carnegie Mellon University. Open to jobs and internships in Canada."
+description: "Information Retrieval, Machine Learning and NLP researcher; Ph.D. in progress. Open to research, ML and data roles in Canada. IEC Working Holiday approved; work permit activation on arrival."
 url: "https://luispb7.github.io"
 baseurl: ""
 repository: "LuisPB7/LuisPB7.github.io"
@@ -53,6 +53,7 @@ exclude:
   - node_modules
   - package.json
   - scripts
+  - resume
   - tmp
   - vendor
 

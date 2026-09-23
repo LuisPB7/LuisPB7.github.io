@@ -4,20 +4,26 @@ title: "Curriculum Vitae"
 permalink: /cv/
 redirect_from:
   - /resume
-description: "Research experience, education and technical skills of Luís Pedro Borges. Ph.D. in progress; open to jobs and internships in Canada."
+description: "Luís Pedro Borges: research experience, education and technical skills. Ph.D. in progress; seeking research, ML and data roles in Canada. IEC Working Holiday approved; permit activation on arrival."
 ---
 
 **Information Retrieval · Machine Learning · NLP · Neural Search**
 
-Ph.D. **in progress** at Instituto Superior Técnico and Carnegie Mellon University. Based in Lisbon, Portugal, and open to research and engineering jobs and internships in Canada.
+Ph.D. **in progress** at Instituto Superior Técnico and Carnegie Mellon University. Based in Lisbon, Portugal.
+
+<div class="opportunity-note" markdown="1">
+**Open to jobs and internships in Canada:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
+
+**Canadian work authorization:** IEC Working Holiday approved for up to 2 years; work permit activation on arrival. **No employer sponsorship required during the permit period.**
+</div>
 
 **Contact:** [{{ site.author.email }}](mailto:{{ site.author.email }}) · [Google Scholar]({{ site.author.googlescholar }}) · [GitHub](https://github.com/{{ site.author.github }})
 
-[Download the full CV (PDF, November 2025)]({{ '/files/cv.pdf' | relative_url }}). The PDF is an earlier version; please use the contact email above for enquiries.
+[Download my two-page résumé (PDF)]({{ '/files/cv.pdf' | relative_url }}).
 
 ## Research & Teaching Experience
 
-- **Researcher, INESC-ID, Lisbon** · February 2025–February 2026. Distillation methods for small language models in Information Retrieval.
+- **Early Stage Researcher, INESC-ID, Lisbon** · March 2025–present. Distillation methods for small language models in Information Retrieval.
 - **Teaching Assistant, Carnegie Mellon University** · January–May 2022. Search Engines course, under Professor Jamie Callan.
 - **Junior Researcher, INESC-ID, Lisbon** · March–September 2019 and July–December 2018. String matching for NLP.
 - **Visiting Junior Researcher, National Institute of Informatics, Tokyo** · January–April 2019. FEVER fact verification task.
