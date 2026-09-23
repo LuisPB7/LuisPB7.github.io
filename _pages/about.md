@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Luís Pedro Pires Borges and I'm from Lisbon, Portugal. I completed my Bachelor's and my Master's degree at the Instituto Superior Técnico. My M.Sc. work concerned the application of Deep Learning techniques to a fake news detection problem, more precisely, the task specified by the [Fake News Challenge](http://www.fakenewschallenge.org/).
+I am an Information Retrieval and Machine Learning researcher working at the intersection of search, Natural Language Processing, and Deep Learning. My work focuses on building neural retrieval systems that are not only effective, but also efficient and practical at scale.
 
-My research interests lie in the intersection of Natural Language Processing, Information Retrieval, and Deep Learning. Currently, I am pursuing a Dual-Degree Ph.D. in Language and Information Technologies, offered by the Instituto Superior Técnico, University of Lisbon, and the Carnegie Mellon University. I am working under the supervision of Professors [Bruno Martins](http://web.ist.utl.pt/bruno.g.martins/) and [Jamie Callan](http://www.cs.cmu.edu/~callan/). My current research is on Sparse Information Retrieval systems. For more information regarding my professional life, please consult the CV section on this webpage.
+My doctoral research, conducted across Instituto Superior Técnico / INESC-ID and Carnegie Mellon University, focuses on Neural Information Retrieval, particularly learned sparse retrieval. In my dissertation, Latent Vocabularies for Learned Sparse Retrieval, I explore how neural retrievers can learn their own sparse vocabularies while retaining the efficiency and scalability of inverted-index search. This work includes research on latent sparse representations, scalable knowledge distillation, and controlling retrieval cost and latency.
+
+More broadly, I have worked on learned sparse and dense retrieval, passage re-ranking, knowledge distillation, model ensembles, and LLM-based re-ranking. My research has been presented at ECIR, ICTIR, SIGIR, and TREC.
+
+I enjoy problems at the intersection of machine learning and real-world search systems, from model architecture and training to large-scale evaluation, efficiency, and retrieval infrastructure. I am currently interested in research and engineering opportunities in Information Retrieval, Search, NLP, and applied Machine Learning.
