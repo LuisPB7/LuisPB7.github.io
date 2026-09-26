@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 redirect_from:
   - /resume
-description: "Luís Pedro Borges: research experience, education and technical skills. Ph.D. in progress; seeking research, ML and data roles in Canada. IEC Working Holiday approved; permit activation on arrival."
+description: "Luís Pedro Borges: research experience, education and technical skills. Ph.D. in progress; seeking research, ML and data roles in Canada and Europe. Canadian IEC Working Holiday approved; permit activation on arrival."
 ---
 
 **Information Retrieval · Machine Learning · NLP · Neural Search**
@@ -12,7 +12,7 @@ description: "Luís Pedro Borges: research experience, education and technical s
 Ph.D. **in progress** at Instituto Superior Técnico and Carnegie Mellon University. Based in Lisbon, Portugal.
 
 <div class="opportunity-note" markdown="1">
-**Open to jobs and internships in Canada:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
+**Open to jobs and internships in Canada and Europe:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
 
 **Canadian work authorization:** IEC Working Holiday approved for up to 2 years; work permit activation on arrival. **No employer sponsorship required during the permit period.**
 </div>
