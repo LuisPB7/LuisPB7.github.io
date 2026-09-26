@@ -22,7 +22,7 @@ The local preview is available at `http://localhost:4000`. Generated output is w
 - `_pages/cv.md`: current web CV.
 - `_config.yml`: identity, contact details, and site metadata.
 - `_data/navigation.yml`: primary navigation.
-- `files/cv.pdf`: current two-page résumé for Canadian research, machine learning and data opportunities.
+- `files/cv.pdf`: current two-page résumé for research, machine learning and data opportunities in Canada and Europe.
 - `images/profile.png`: profile photograph.
 
 The primary contact address is `lpborges.careers@gmail.com`.

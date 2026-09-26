@@ -1,6 +1,6 @@
-# Canadian résumé
+# Résumé for roles in Canada and Europe
 
-`cv.tex` is the editable LaTeX source for `../files/cv.pdf`, the two-page résumé linked from the website. It covers research, data science, data engineering, machine learning and search opportunities, with documented experience in ML and information retrieval.
+`cv.tex` is the editable LaTeX source for `../files/cv.pdf`, the two-page résumé linked from the website. It covers research, data science, data engineering, machine learning and search opportunities in Canada and Europe, with documented experience in ML and information retrieval.
 
 From the repository root, build with Tectonic:
 

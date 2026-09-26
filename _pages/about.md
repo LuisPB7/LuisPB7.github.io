@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Information Retrieval & Machine Learning"
-description: "Luís Pedro Borges: Information Retrieval and Machine Learning researcher, Ph.D. in progress. Open to research, ML and data roles in Canada; IEC Working Holiday approved, with permit activation on arrival."
+description: "Luís Pedro Borges: Information Retrieval and Machine Learning researcher, Ph.D. in progress. Open to research, ML and data roles in Canada and Europe; Canadian IEC Working Holiday approved, with permit activation on arrival."
 author_profile: true
 redirect_from:
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 I’m Luís Pedro Borges, a **Ph.D. student (in progress)** at Instituto Superior Técnico / INESC-ID and Carnegie Mellon University. My research connects machine learning models with search systems, with a focus on learned sparse retrieval.
 
 <div class="opportunity-note" markdown="1">
-**Open to jobs and internships in Canada:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
+**Open to jobs and internships in Canada and Europe:** Research Scientist, Data Scientist, Data Engineer, ML Engineer and Search Engineer roles.
 
 **Canadian work authorization:** IEC Working Holiday approved for up to 2 years; work permit activation on arrival. **No employer sponsorship required during the permit period.**
 
@@ -57,6 +57,6 @@ My broader work spans sparse and dense retrieval, passage re-ranking, model ense
 
 ## Contact
 
-For job and internship opportunities in Canada, contact me at **[{{ site.author.email }}](mailto:{{ site.author.email }})**. I’m based in Lisbon, Portugal.
+For job and internship opportunities in Canada and Europe, contact me at **[{{ site.author.email }}](mailto:{{ site.author.email }})**. I’m based in Lisbon, Portugal.
 
 [Google Scholar]({{ site.author.googlescholar }}) · [GitHub](https://github.com/{{ site.author.github }}) · [LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})
